@@ -1,0 +1,7 @@
+{
+    "name": "commonjsmodule",
+    "description": "A project showing how CommonJS modules are used to export functions from one file and import them within another.",
+    "scripts": {
+        "start": "node src/main.js"
+    }
+}
