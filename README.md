@@ -1,6 +1,6 @@
 # Learn-JSModules
 
-This project is a learning repository used to learn about JavaScript modules, both CommonJS Modules and ES6 Modules. It also includes TypeScript projects using both CommonJS Modules and ES6 Modules to show how the configurations and project setup differs in those circumstances.
+This project is a learning repository for JavaScript modules, both CommonJS Modules and ES6 Modules. It also includes TypeScript projects using both CommonJS Modules and ES6 Modules to show how the configurations and project setup differs in those circumstances.
 
 ## Project Layout
 
