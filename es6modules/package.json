@@ -1,0 +1,8 @@
+{
+    "name": "es6modules",
+    "description": "A project showing how ES6 modules are used to define and export a function from one file and import it from within another.",
+    "type": "module",
+    "scripts": {
+        "start": "node src/main.js"
+    }
+}
